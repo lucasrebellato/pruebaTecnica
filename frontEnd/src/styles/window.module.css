@@ -1,0 +1,19 @@
+.box{
+    border: 1px solid black;
+    height: 90vh;
+    margin-left: 20vw; 
+    margin-right: 20vw;
+    margin-top: 50px;
+    border-radius: 2%;
+    overflow: hidden;
+}
+
+.subBox{ 
+    border: 1px solid black;
+    height: 70vh;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    border-radius: 2%;
+    overflow: hidden;
+}

@@ -1,0 +1,38 @@
+.buttonContent{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    height: 30vh;
+}
+
+.h3{
+    margin-top: 1rem;
+    margin-left: 1rem;    
+}
+
+.listItem{
+    margin: 0.5rem;
+}
+
+.button{
+    background-color: #8f609c;
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: system-ui,"Segoe UI";
+    font-size: 15px;
+    line-height: 20px;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 2rem;
+}
+
+.button:hover{
+    background-color: #4b446b;
+}
